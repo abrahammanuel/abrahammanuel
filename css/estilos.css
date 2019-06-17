@@ -46,7 +46,7 @@ h1,h2, h3, h4, h5, h6{
   width: 100%;
 }
 .logo{
-  font-size: 1.8em;
+  font-size:1.8em;
   color:#de423a;
   padding: 10px;
   font-family: 'Pacifico', cursive;
@@ -347,7 +347,7 @@ background: white;
   
 .logo {
     color: white;
-  font-size: 2.15em;
+  font-size: 1em;
   z-index: 100;
   
   
@@ -364,7 +364,7 @@ background: white;
     
   }
   .banner__content{
-    font-size: 2em;
+    font-size: 1.7em;
     top: 65%;
   }
   .main-header__contactInfo__phone{
@@ -469,7 +469,7 @@ background: white;
 
 @media screen and (min-width: 1024px){
   .logo{
-    font-size: 2.5em;
+    font-size: 1.5em;
     padding: 0;
   }
   .main-header__contactInfo__phone, .main-header__contactInfo__address{
